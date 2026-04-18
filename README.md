@@ -79,7 +79,7 @@ Doorcase is a wall-mounted system where:
 ---
 
 ## 📸 Visuals
-![Doorcase Mechanism](./Doorcase1.png)
+![Doorcase Mechanism](./doorcase1.png)
 ![Doorcase Visualization](./doorcase2.png)
 ![Doorcase Visualization](./doorcase3.png)
 
